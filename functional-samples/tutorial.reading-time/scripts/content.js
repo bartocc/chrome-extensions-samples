@@ -13,6 +13,7 @@
 // limitations under the License.
 
 const article = document.querySelector('article');
+console.log("foobar")
 
 // `document.querySelector` may return null if the selector doesn't match anything.
 if (article) {
